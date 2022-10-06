@@ -1,0 +1,4 @@
+Running: xsim.dir/ngen_tb_behav/xsimk -simmode gui -wdb ngen_tb_behav.wdb -simrunnum 0 -socket 47105
+Design successfully loaded
+Design Loading Memory Usage: 28772 KB (Peak: 29580 KB)
+Design Loading CPU Usage: 20 ms

@@ -1,0 +1,19 @@
+Vivado Simulator v2022.1
+Copyright 1986-1999, 2001-2022 Xilinx, Inc. All Rights Reserved.
+Running: /home/pviscone/Desktop/docker-vivado/pkg/vivado/opt/Xilinx/Vivado/2022.1/bin/unwrapped/lnx64.o/xelab --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot ngen_tb_behav xil_defaultlib.ngen_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 15 for port 'DLY' [/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sim_1/new/ngen_tb.v:34]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 15 for port 'WIDTH' [/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sim_1/new/ngen_tb.v:35]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 15 for port 'DLY' [/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sim_1/new/ngen_tb.v:40]
+WARNING: [VRFC 10-3091] actual bit length 32 differs from formal bit length 15 for port 'WIDTH' [/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sim_1/new/ngen_tb.v:41]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.ngen
+Compiling module xil_defaultlib.NGENTRG
+Compiling module xil_defaultlib.ngen_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot ngen_tb_behav

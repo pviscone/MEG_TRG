@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sources_1/new/ngen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ngen
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sources_1/new/ngen_ref.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module NGENTRG
+WARNING: [VRFC 10-3380] identifier 'COUNTSIZE' is used before its declaration [/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sources_1/new/ngen_ref.v:26]
+WARNING: [VRFC 10-3380] identifier 'COUNTSIZE' is used before its declaration [/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sources_1/new/ngen_ref.v:27]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sim_1/new/ngen_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ngen_tb

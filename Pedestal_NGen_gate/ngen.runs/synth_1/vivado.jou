@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:47:01 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Oct  4 17:19:04 2022
+# Process ID: 37923
+# Current directory: /home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.runs/synth_1
+# Command line: vivado -log ngen.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source ngen.tcl
+# Log file: /home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.runs/synth_1/ngen.vds
+# Journal file: /home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.runs/synth_1/vivado.jou
+# Running On: pviscon-81ue, OS: Linux, CPU Frequency: 3100.003 MHz, CPU Physical cores: 4, Host memory: 7781 MB
+#-----------------------------------------------------------
+source ngen.tcl -notrace

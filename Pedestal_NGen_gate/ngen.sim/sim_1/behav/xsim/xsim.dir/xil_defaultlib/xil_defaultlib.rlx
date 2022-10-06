@@ -1,0 +1,8 @@
+0.7
+2020.2
+Apr 18 2022
+15:53:03
+/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.sim/sim_1/behav/xsim/glbl.v,1664530170,verilog,,,,glbl,,,,,,,,
+/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sim_1/new/ngen_tb.v,1665047693,verilog,,,,ngen_tb,,,,,,,,
+/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sources_1/new/ngen.v,1665048262,verilog,,/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sources_1/new/ngen_ref.v,,ngen,,,,,,,,
+/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sources_1/new/ngen_ref.v,1665045786,verilog,,/home/pviscone/Desktop/docker-vivado/projects/ngen/ngen.srcs/sim_1/new/ngen_tb.v,,NGENTRG,,,,,,,,
