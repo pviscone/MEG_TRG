@@ -1,1 +1,1 @@
-# Verilog_training
+FPGA firmware modules for the MEG experiment trigger
